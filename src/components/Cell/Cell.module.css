@@ -1,0 +1,13 @@
+.cell {
+    padding: 10px;
+    background-color: white;
+    border-color: orange;
+    border-width: 5px;
+    border-style: groove;
+    justify-items: center;
+    aspect-ratio: 1/1;
+    width: 10vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }

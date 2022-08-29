@@ -1,0 +1,11 @@
+.toPlayWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    top: 20px
+}
+
+p {
+    padding-left: 10px;
+}

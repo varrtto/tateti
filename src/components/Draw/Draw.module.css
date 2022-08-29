@@ -1,0 +1,23 @@
+.drawWrapper {
+    position: absolute;
+    left: auto;
+    right: auto;
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.draw {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20vw;
+    align-items: center;
+    font-size: 30px;
+}
+
+p {
+    white-space: nowrap;
+    padding-right: 10px;
+}
